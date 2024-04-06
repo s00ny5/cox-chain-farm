@@ -1,0 +1,17 @@
+{
+  "name": "cox-chain-farm",
+  "version": "1.0.0",
+  "description": "cox-chain-farm",
+  "main": "farm.js",
+  "scripts": {
+    "start": "node farm.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s00ny5/cox-chain-farm.git"
+  },
+  "homepage": "https://github.com/s00ny5/cox-chain-farm#readme",
+  "dependencies": {
+    "cox-chain": "1.0.0"
+  }
+}
