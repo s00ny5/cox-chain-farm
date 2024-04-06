@@ -12,6 +12,6 @@
   },
   "homepage": "https://github.com/s00ny5/cox-chain-farm#readme",
   "dependencies": {
-    "cox-chain": "1.0.0"
+    "cox-chain": "^1.0.0"
   }
 }
